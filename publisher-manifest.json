@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "cacff2dbf22ebf57a5751469",
+  "owner": "xepers",
+  "repo": "page-646ebeb04fdd5808cb8ad159",
+  "title": "GZ高铁复兴号",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "646ebeb04fdd5808cb8ad159",
+      "a": "GZ高铁复兴号",
+      "b": "稳定全球clash加速器",
+      "entity": "GZ高铁复兴号",
+      "brand": "GZ高铁复兴号",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "868e6cb5fa1867eafcb93422c21b08a7994900e64025b83438ef7afc202f3319",
+      "content": {
+        "primary_entity": "GZ高铁复兴号",
+        "keyword1": "GZ高铁复兴号",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，再导入订阅地址。",
+          "AI_CLIENTS_TITLE": "客户端选择参考",
+          "AI_CLOSING_TEXT": "选好套餐后，在对应客户端导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "从套餐到订阅一步到位",
+          "AI_DESCRIPTION": "，提供多个梯度的订阅套餐，流量从每月 100GB 到 1000GB，支持 3 台到 20 台设备同时在线，可按月或按年付费，适合个人、家庭与小型团队根据自身设备数量和用量灵活选择。",
+          "AI_FEATURES_INTRO": "结合设备数量与月流量需求，选择匹配的订阅周期。",
+          "AI_FEATURES_TITLE": "套餐、设备与周期",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，支持 3 台设备，适合单人日常使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量，支持 5 台设备，含 IPLC 专线优化。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量，支持 20 台设备，可定制企业路由。",
+          "AI_FEATURE_TITLE_1": "入门流量档",
+          "AI_FEATURE_TITLE_2": "进阶均衡档",
+          "AI_FEATURE_TITLE_3": "多设备团队档",
+          "AI_GUIDE_INTRO": "从选套餐到导入订阅，三步完成初始配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "GZ高铁复兴号提供多档海外加速订阅，流量从每月 100GB 到 1000GB，设备数从 3 台到 20 台，覆盖个人到团队的不同使用场景，支持按月或按年付费。",
+          "AI_HERO_SUBTITLE": "多档订阅灵活选",
+          "AI_HIGHLIGHT_1": "三档流量按需选",
+          "AI_HIGHLIGHT_2": "多设备同时在线",
+          "AI_HIGHLIGHT_3": "月付年付皆可",
+          "AI_PLANS_INTRO": "对比三档套餐的流量、设备数与线路特性，按实际用量选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备台数和月流量，在基础版、旗舰版、团队版之间选一档。",
+          "AI_STEP_TEXT_2": "确认所选套餐的设备上限与流量额度是否贴合日常需求。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅地址，按客户端文档完成配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "GZ高铁复兴号·多档订阅",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量，支持3台设备同时在线，适合单人手机或平板日常使用；旗舰版每月300GB流量，支持5台设备，适合多设备家庭。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持5台设备同时在线，团队版支持20台。单账号多设备连接时，总流量按套餐上限计算。",
+          "AI_FAQ_ANSWER_3": "年付更划算，基础版年付150元，旗舰版年付350元，团队版年付850元。月付灵活，适合短期或试用需求。",
+          "AI_FAQ_ANSWER_4": "在客户端中使用订阅导入功能，粘贴购买后获得的订阅链接，等待节点列表刷新后选择延迟较低的线路即可。不同客户端导入步骤略有差异，请参照对应文档。",
+          "AI_FAQ_ANSWER_5": "在路由器上安装支持订阅导入的客户端插件，将订阅链接配置到路由器，同一网络下的设备即可共享连接。设备数量仍受套餐上限约束。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版的主要区别是什么？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时连接几台设备？",
+          "AI_FAQ_QUESTION_3": "月付和年付怎么选？",
+          "AI_FAQ_QUESTION_4": "在手机或电脑上如何导入订阅？",
+          "AI_FAQ_QUESTION_5": "路由器上可以使用吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kq874ept1a.org",
+    "host": "xn--9kq874ept1a.org"
+  },
+  "file_hashes": {
+    "index.html": "8598b414fdd429ec7ec9f041424cb453ddcb72d4ab2e25cfa8ffd6ee33661786",
+    "sitemap.xml": "7470794c4f52fbf5cdc83208a832f3cb1b835080ff36145e216f30da4f9ac4e0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "08da28d40c7c7e3b64d47ee9f2d8aeac0b2913c71231cc32cb6d883fcac80fbc",
+    "robots.txt": "f73c85834218c8074e02f67c41d616c6d70b146db1f12f89acb419396729570e",
+    "6ce0d6083f1d0e850da7f453b7490e92.txt": "79f76fecd56fe091ae0585477aafd93073cabe421a99085879e992ad097e2436"
+  },
+  "revision": "d0626aa7018c529628e73833976f35a309ae20b6a887d602bdf155fcdbf303d1"
+}
